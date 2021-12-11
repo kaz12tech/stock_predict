@@ -22,3 +22,6 @@ $ pip3 install sktime[all_extras]
 
 yahoo_finance_api2をインストール  
 $ pip3 install yahoo_finance_api2  
+
+その他  
+$ pip3 install prophet==1.0.1  
